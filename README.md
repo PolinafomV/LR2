@@ -136,7 +136,9 @@ RoBERTa использует метод маскированного языко�
 В результате выполнения лабораторной работы были получены эмбеддинги Robert и построена нейронная сеть на их основе. 
 Оценка качества модели на тесте (Precision/Recall/F1Score) приведена на рисунке 4.
 
-![image](https://github.com/user-attachments/assets/de304ff1-8d9a-4e4b-a07f-80c7903e5825)
+<p align="center">  
+  <img src="https://github.com/user-attachments/assets/de304ff1-8d9a-4e4b-a07f-80c7903e5825">
+</p>
 
 <p align="center">  
 Рисунок 4 - Оценка качества модели
@@ -146,7 +148,9 @@ RoBERTa использует метод маскированного языко�
 
 ![image](https://github.com/user-attachments/assets/09f17d76-774b-4c5c-ac7b-db41aa711312)
 
-![image](https://github.com/user-attachments/assets/1f3b5caf-ced3-4849-9b5f-f0b5bb6bebf6)
+<p align="center">  
+  <img src="https://github.com/user-attachments/assets/1f3b5caf-ced3-4849-9b5f-f0b5bb6bebf6">
+</p>
 
 
 
