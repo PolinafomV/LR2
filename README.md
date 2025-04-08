@@ -3,7 +3,7 @@
 **Тема:** Работа с предобученными моделями и эмбеддингами  
 **Цель:** Научиться использовать предобученные трансформеры и исследовать влияние различных слоев модели.
 
-**Студентs:** Чупахина В.В., Фомичева П.Ю.
+**Студенты:** Чупахина В.В., Фомичева П.Ю.
 
 ---
 
@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">  
-![image]![image](https://github.com/user-attachments/assets/2b7780d2-a875-4283-9a50-6775ba069197)
+![image](https://github.com/user-attachments/assets/2b7780d2-a875-4283-9a50-6775ba069197)
 
 </p>
 
@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">  
-![image]![image](https://github.com/user-attachments/assets/cb4ab42a-fc65-4b92-98d3-d6701329f098)
+![image](https://github.com/user-attachments/assets/cb4ab42a-fc65-4b92-98d3-d6701329f098)
 
 </p>
 
