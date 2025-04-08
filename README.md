@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">  
-  <img src="https://github.com/user-attachments/assets/5009c824-3f13-46aa-93d1-271f352b15e1">
+  <img src="https://github.com/user-attachments/assets/50db7e21-d1ea-4098-856e-0bab8423df54">
 </p>
 
 <p align="center">  
@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">  
-    <img src="https://github.com/user-attachments/assets/9b5b1bbe-aef5-46ea-a6d7-fa821894dc55">
+    <img src="https://github.com/user-attachments/assets/06d4d53a-481d-4634-b68a-b8bf02753732">
 </p>
 
 <p align="center">  
