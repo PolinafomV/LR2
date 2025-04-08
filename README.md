@@ -30,7 +30,7 @@
 Каждый кодировщик (рисунок 2) состоит из механизма самовнимания (вход из предыдущего слоя) и нейронной сети с прямой связью (вход из механизма самовнимания). Каждый декодировщик (рисунок 3) состоит из механизма самовнимания (вход из предыдущего слоя), механизма внимания к результатам кодирования (вход из механизма самовнимания и кодировщика) и нейронной сети с прямой связью (вход из механизма внимания) [1].
 
 <p align="center">  
-![image](https://upload.wikimedia.org/wikipedia/commons/0/0d/MLTransformerOverview.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/MLTransformerOverview.svg">
 </p>
 
 <p align="center">  
@@ -38,8 +38,7 @@
 </p>
 
 <p align="center">  
-![image](https://github.com/user-attachments/assets/2b7780d2-a875-4283-9a50-6775ba069197)
-
+  <img src="https://github.com/user-attachments/assets/2b7780d2-a875-4283-9a50-6775ba069197">
 </p>
 
 <p align="center">  
@@ -47,8 +46,7 @@
 </p>
 
 <p align="center">  
-![image](https://github.com/user-attachments/assets/cb4ab42a-fc65-4b92-98d3-d6701329f098)
-
+    <img src="https://github.com/user-attachments/assets/cb4ab42a-fc65-4b92-98d3-d6701329f098">
 </p>
 
 <p align="center">  
